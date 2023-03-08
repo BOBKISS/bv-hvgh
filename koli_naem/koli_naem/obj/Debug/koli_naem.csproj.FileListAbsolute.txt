@@ -1,0 +1,9 @@
+D:\10 клас\koli_naem\koli_naem\bin\Debug\koli_naem.exe.config
+D:\10 клас\koli_naem\koli_naem\bin\Debug\koli_naem.exe
+D:\10 клас\koli_naem\koli_naem\bin\Debug\koli_naem.pdb
+D:\10 клас\koli_naem\koli_naem\obj\Debug\koli_naem.csprojAssemblyReference.cache
+D:\10 клас\koli_naem\koli_naem\obj\Debug\koli_naem.Form1.resources
+D:\10 клас\koli_naem\koli_naem\obj\Debug\koli_naem.Properties.Resources.resources
+D:\10 клас\koli_naem\koli_naem\obj\Debug\koli_naem.csproj.GenerateResource.cache
+D:\10 клас\koli_naem\koli_naem\obj\Debug\koli_naem.exe
+D:\10 клас\koli_naem\koli_naem\obj\Debug\koli_naem.pdb
